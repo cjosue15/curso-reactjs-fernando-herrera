@@ -1,0 +1,12 @@
+ul li {
+    border: 1px solid #ccc !important;
+}
+
+li p {
+    cursor: pointer;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: #ccc;
+}

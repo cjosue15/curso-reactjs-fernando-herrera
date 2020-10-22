@@ -18,6 +18,8 @@ export const Padre = () => {
         [setValor]
     );
 
+    console.log(valor);
+
     return (
         <div>
             <h1>Padre</h1>
